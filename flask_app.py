@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 import seaborn as sns
 from langchain_community import ChatModels
-
+#raju gunde welcome to phython
 app = Flask(__name__)
 
 @app.route("/")
